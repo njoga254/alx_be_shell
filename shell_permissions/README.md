@@ -1,2 +1,4 @@
 #!/bin/bash
-who am i
+i am betty
+#shell permissions
+##who am i
